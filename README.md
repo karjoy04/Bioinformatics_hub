@@ -1,2 +1,2 @@
-# Bioinformatics_hub
+# Bioinformatics
 Bioinformatics projects
